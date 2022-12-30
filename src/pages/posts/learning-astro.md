@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Learning About Markdown in Astro"
-author: Astro Learner - Xuying Yu
+author: Astro Learner - Yuki
 pubDate: 2022-12-28
 image: 
     url: '' 
